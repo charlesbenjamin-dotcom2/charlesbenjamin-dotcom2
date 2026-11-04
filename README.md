@@ -16,7 +16,7 @@ I am currently transitioning into the IT field, embracing the challenge of learn
 🎯 <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/charlesbenjamin-dotcom2/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/charlesbenjamin-dotcom2/azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/charlesbenjamin-dotcom2/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/charlesbenjamin-dotcom2/file-shares-permissions)
 
 <h2>🤳Connect with me:</h2>
 
